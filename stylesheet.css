@@ -1,0 +1,40 @@
+.customdiv{
+margin-bottom:10px;
+margin-top:10px;
+height: 300px;
+background-color:skyblue;
+margin: 10px;
+padding: 10px;
+}
+.customdiv2{
+    height:400px;
+    margin:5px;
+    background-color: skyblue;
+}
+.customdiv3{
+    height:200px;
+    margin:2px;
+    background-color: skyblue;
+}
+.sidebar{
+    margin: 10px;
+    background-color: silver;
+    min-height: 420px;
+}
+.nessidebar{
+    min-height: 200px;
+    background-color: silver;
+    margin: 10px;
+    text-align: center;
+}
+.img-circle{
+    height: 50px;
+    width: 50px;
+    
+    border-radius: 50%;
+}
+.img{
+height: 50px;
+width: 50px;
+border-radius: 50%;
+}
